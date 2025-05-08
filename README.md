@@ -1,4 +1,4 @@
-# CMPE-258-Training-Neural-networks-with-Keras-Advanced
+# CMPE-258-Assignment-6-Training-Neural-networks-with-Keras-Advanced
 
 This repository contains a comprehensive exploration of advanced techniques for training neural networks using Keras and TensorFlow. The project is divided into two main parts focusing on regularization, data augmentation, and custom Keras components.
 
