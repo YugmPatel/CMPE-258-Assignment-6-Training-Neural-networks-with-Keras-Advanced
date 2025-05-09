@@ -52,7 +52,7 @@ This section explores various data augmentation techniques across different data
 
 ## Video Demonstrations
 
-A detailed walkthrough video explaining each notebook is available [here](#) (link to be updated).
+A detailed walkthrough video explaining each notebook is available [Youtube Video Link](https://youtu.be/Ny4_BgKssiw)
 
 ## Requirements
 
